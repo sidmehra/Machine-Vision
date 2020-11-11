@@ -1,0 +1,1247 @@
+-------------------Task1 A-----------------------------
+Displaying corners for image 1.
+press [ENTER] for the next image
+
+Displaying corners for image 2.
+press [ENTER] for the next image
+
+Displaying corners for image 3.
+press [ENTER] for the next image
+
+Displaying corners for image 4.
+press [ENTER] for the next image
+
+No pattern found for image 5
+press [ENTER] for the next image.
+Displaying corners for image 6.
+press [ENTER] for the next image
+
+Displaying corners for image 7.
+press [ENTER] to continue
+
+-------------------Task1 B-----------------------------
+Calibration matrix: 
+[[994.9374   0.     485.1322]
+ [  0.     953.83   286.1678]
+ [  0.       0.       1.    ]] 
+
+Press [ENTER] to continue
+
+
+-------------------Task1 C-----------------------------
+Good features to track in FRAME 1
+press [ENTER] to continue
+-------------------Task1 D-----------------------------
+The video has reached its last frame.
+-------------------Task2 A-----------------------------
+Correspondence between the first and last frames: 
+Press [ENTER] to continue
+-------------------Task2 B-----------------------------
+Mean feature coordinates of first frame: (0.8564, 0.4792, 0.0017)
+Mean feature coordinates of last frame: (0.8289, 0.4775, 0.002)
+Std. dev. of feature coordinates of first frame: (0.0878, 0.1709, 0.0004)
+Std. dev. of feature coordinates of last frame: (0.1621, 0.2424, 0.0012)
+-------------------Task2 C-----------------------------
+The fundamental matrix for selection {66, 10, 46, 20, 52, 58, 59, 61}:
+[[ 0.     -0.      0.0013]
+ [ 0.      0.     -0.0014]
+ [-0.0033 -0.0017  1.0033]]
+-------------------Task2 D-----------------------------
+The fundamental matrix for the selected normalized correspondences:
+[[ 0.0000e+00 -0.0000e+00  2.0000e-04]
+ [ 0.0000e+00  0.0000e+00 -3.0000e-04]
+ [-3.0000e-04 -3.0000e-04  1.0004e+00]]
+The fundamental matrix for selection {66, 10, 46, 20, 52, 58, 59, 61}:
+[[ 0.     -0.      0.0013]
+ [ 0.      0.     -0.0014]
+ [-0.0033 -0.0017  1.0036]]
+-------------------Task2 E-----------------------------
+Values and variances of the model equation for unselected feature correspondences:
+	Feature: 0		Value: 0.0001		Variance:0.0
+	Feature: 1		Value: 0.0001		Variance:0.0
+	Feature: 2		Value: 0.0001		Variance:0.0
+	Feature: 3		Value: 0.0001		Variance:0.0
+	Feature: 4		Value: 0.0001		Variance:0.0
+	Feature: 5		Value: 0.0001		Variance:0.0
+	Feature: 6		Value: 0.0001		Variance:0.0
+	Feature: 7		Value: 0.0001		Variance:0.0
+	Feature: 8		Value: 0.0001		Variance:0.0
+	Feature: 9		Value: 0.0001		Variance:0.0
+	Feature: 11		Value: 0.0001		Variance:0.0
+	Feature: 12		Value: 0.0001		Variance:0.0
+	Feature: 13		Value: 0.0001		Variance:0.0
+	Feature: 14		Value: 0.0001		Variance:0.0
+	Feature: 15		Value: 0.0001		Variance:0.0
+	Feature: 16		Value: 0.0001		Variance:0.0
+	Feature: 17		Value: 0.0001		Variance:0.0
+	Feature: 18		Value: 0.0001		Variance:0.0
+	Feature: 19		Value: 0.0001		Variance:0.0
+	Feature: 21		Value: 0.0001		Variance:0.0
+	Feature: 22		Value: 0.0001		Variance:0.0
+	Feature: 23		Value: 0.0001		Variance:0.0
+	Feature: 24		Value: 0.0001		Variance:0.0
+	Feature: 25		Value: 0.0001		Variance:0.0
+	Feature: 26		Value: 0.0001		Variance:0.0
+	Feature: 27		Value: 0.0001		Variance:0.0
+	Feature: 28		Value: -0.0		Variance:0.0
+	Feature: 29		Value: 0.0001		Variance:0.0
+	Feature: 30		Value: 0.0001		Variance:0.0
+	Feature: 31		Value: 0.0001		Variance:0.0
+	Feature: 32		Value: 0.0001		Variance:0.0
+	Feature: 33		Value: 0.0001		Variance:0.0
+	Feature: 34		Value: 0.0001		Variance:0.0
+	Feature: 35		Value: 0.0001		Variance:0.0
+	Feature: 36		Value: 0.0001		Variance:0.0
+	Feature: 37		Value: 0.0001		Variance:0.0
+	Feature: 38		Value: 0.0001		Variance:0.0
+	Feature: 39		Value: 0.0001		Variance:0.0
+	Feature: 40		Value: 0.0001		Variance:0.0
+	Feature: 41		Value: 0.0001		Variance:0.0
+	Feature: 42		Value: 0.0001		Variance:0.0
+	Feature: 43		Value: 0.0001		Variance:0.0
+	Feature: 44		Value: 0.0001		Variance:0.0
+	Feature: 45		Value: 0.0001		Variance:0.0
+	Feature: 47		Value: 0.0001		Variance:0.0
+	Feature: 48		Value: 0.0001		Variance:0.0
+	Feature: 49		Value: 0.0001		Variance:0.0
+	Feature: 50		Value: 0.0001		Variance:0.0
+	Feature: 51		Value: 0.0		Variance:0.0
+	Feature: 53		Value: 0.0001		Variance:0.0
+	Feature: 54		Value: 0.0001		Variance:0.0
+	Feature: 55		Value: 0.0001		Variance:0.0
+	Feature: 56		Value: 0.0001		Variance:0.0
+	Feature: 57		Value: 0.0001		Variance:0.0
+	Feature: 60		Value: 0.0001		Variance:0.0
+	Feature: 62		Value: 0.0001		Variance:0.0
+	Feature: 63		Value: 0.0001		Variance:0.0
+	Feature: 64		Value: 0.0001		Variance:0.0
+	Feature: 65		Value: 0.0001		Variance:0.0
+	Feature: 67		Value: 0.0		Variance:0.0
+	Feature: 68		Value: 0.0001		Variance:0.0
+-------------------Task2 F-----------------------------
+Outlier Dectection:
+	Feature: 0		Outlier: False
+	Feature: 1		Outlier: False
+	Feature: 2		Outlier: False
+	Feature: 3		Outlier: False
+	Feature: 4		Outlier: False
+	Feature: 5		Outlier: False
+	Feature: 6		Outlier: False
+	Feature: 7		Outlier: False
+	Feature: 8		Outlier: False
+	Feature: 9		Outlier: False
+	Feature: 11		Outlier: False
+	Feature: 12		Outlier: False
+	Feature: 13		Outlier: False
+	Feature: 14		Outlier: False
+	Feature: 15		Outlier: False
+	Feature: 16		Outlier: False
+	Feature: 17		Outlier: False
+	Feature: 18		Outlier: False
+	Feature: 19		Outlier: False
+	Feature: 21		Outlier: False
+	Feature: 22		Outlier: False
+	Feature: 23		Outlier: False
+	Feature: 24		Outlier: False
+	Feature: 25		Outlier: False
+	Feature: 26		Outlier: False
+	Feature: 27		Outlier: False
+	Feature: 28		Outlier: False
+	Feature: 29		Outlier: False
+	Feature: 30		Outlier: False
+	Feature: 31		Outlier: False
+	Feature: 32		Outlier: False
+	Feature: 33		Outlier: False
+	Feature: 34		Outlier: False
+	Feature: 35		Outlier: False
+	Feature: 36		Outlier: False
+	Feature: 37		Outlier: False
+	Feature: 38		Outlier: False
+	Feature: 39		Outlier: False
+	Feature: 40		Outlier: False
+	Feature: 41		Outlier: False
+	Feature: 42		Outlier: False
+	Feature: 43		Outlier: False
+	Feature: 44		Outlier: False
+	Feature: 45		Outlier: False
+	Feature: 47		Outlier: False
+	Feature: 48		Outlier: False
+	Feature: 49		Outlier: False
+	Feature: 50		Outlier: False
+	Feature: 51		Outlier: False
+	Feature: 53		Outlier: False
+	Feature: 54		Outlier: False
+	Feature: 55		Outlier: False
+	Feature: 56		Outlier: False
+	Feature: 57		Outlier: False
+	Feature: 60		Outlier: False
+	Feature: 62		Outlier: False
+	Feature: 63		Outlier: False
+	Feature: 64		Outlier: False
+	Feature: 65		Outlier: False
+	Feature: 67		Outlier: False
+	Feature: 68		Outlier: False
+Sum of test statistics over all inliers: 113.807
+-------------------Task2 G-----------------------------
+Iterations started:
+	1000 iterations completed
+	2000 iterations completed
+	3000 iterations completed
+	4000 iterations completed
+	5000 iterations completed
+	6000 iterations completed
+	7000 iterations completed
+	8000 iterations completed
+	9000 iterations completed
+	10000 iterations completed
+The fundamental matrix for selection {1, 8, 10, 13, 18, 19, 58, 63}:
+[[ 4.88995656e-06 -8.24297816e-05  2.94873860e-02]
+ [ 7.01404496e-05 -3.10004698e-05 -1.58728317e-02]
+ [-3.41319437e-02  3.27360981e-02  9.96650695e-01]]
+
+
+Number of outliers removed:0
+-------------------Task2 H-----------------------------
+Red indicates outliers.
+Blue indicates inliers.
+Coordinates of the two epipoles:
+	E1: [[ 98.08949535 402.59716751   1.        ]]
+	E2: [[-115.98326941  594.7200485     1.        ]]
+-------------------Task3 A-----------------------------
+The essential matrix for selection {66, 10, 46, 20, 52, 58, 59, 61}:
+[[ 1.4325 -3.3315  0.9639]
+ [ 5.5056  1.9658  1.9018]
+ [-0.9155 -2.6488 -0.0328]]
+Singular value decomposition of essential matrix E:
+U: [[-0.032   0.8664 -0.4984]
+ [-0.9565  0.1182  0.2668]
+ [ 0.2901  0.4852  0.8249]],
+S: [5.3649 5.3649 0.    ],
+V: [[-0.8708 -0.3969 -0.2903]
+ [ 0.3347 -0.9109  0.2414]
+ [-0.3602  0.113   0.926 ]]
+-------------------Task3 B-----------------------------
+The four potential combinations of R and t:
+Combination 1:
+R1: [[-0.6224 -0.5599 -0.5469]
+ [ 0.1405 -0.7673  0.6257]
+ [-0.77    0.3126  0.5563]]
+t1: [[  53.995 ]
+ [ -44.8969]
+ [-172.2348]]
+Combination 2:
+R1: [[-0.6224 -0.5599 -0.5469]
+ [ 0.1405 -0.7673  0.6257]
+ [-0.77    0.3126  0.5563]]
+t2: [[-53.995 ]
+ [ 44.8969]
+ [172.2348]]
+Combination 3:
+R2: [[ 0.9118  0.405   0.0679]
+ [-0.3811  0.8961 -0.2275]
+ [-0.153   0.1815  0.9714]]
+t3: [[-53.995 ]
+ [ 44.8969]
+ [172.2348]]
+Combination 4:
+R2: [[ 0.9118  0.405   0.0679]
+ [-0.3811  0.8961 -0.2275]
+ [-0.153   0.1815  0.9714]]
+t4: [[  53.995 ]
+ [ -44.8969]
+ [-172.2348]]
+-------------------Task3 C-----------------------------
+m and m' for inlier feature correspondence 0:
+	m:[-0.0002  0.0001  0.002 ]
+	m':[-0.0002  0.      0.0021]
+lambda and mu for inlier feature correspondence 0:
+	corresponding to (R1, t1):
+		lambda: -60902.2748
+		mu: 36039.0707
+	corresponding to (R1, t2):
+		lambda: 60902.2748
+		mu: -36039.0707
+	corresponding to (R2, t3):
+		lambda: 205427.2232
+		mu: 116122.1632
+	corresponding to (R2, t4):
+		lambda: -205427.2232
+		mu: -116122.1632
+m and m' for inlier feature correspondence 1:
+	m:[ 0.0003 -0.0001  0.0014]
+	m':[ 0.0003 -0.0001  0.0013]
+lambda and mu for inlier feature correspondence 1:
+	corresponding to (R1, t1):
+		lambda: -97832.9066
+		mu: 74010.9867
+	corresponding to (R1, t2):
+		lambda: 97832.9066
+		mu: -74010.9867
+	corresponding to (R2, t3):
+		lambda: 250118.2761
+		mu: 159977.3872
+	corresponding to (R2, t4):
+		lambda: -250118.2761
+		mu: -159977.3872
+m and m' for inlier feature correspondence 2:
+	m:[ 0.0002 -0.      0.0015]
+	m':[ 0.0003 -0.0001  0.0013]
+lambda and mu for inlier feature correspondence 2:
+	corresponding to (R1, t1):
+		lambda: -95353.9782
+		mu: 67908.205
+	corresponding to (R1, t2):
+		lambda: 95353.9782
+		mu: -67908.205
+	corresponding to (R2, t3):
+		lambda: 229388.7423
+		mu: 146507.8227
+	corresponding to (R2, t4):
+		lambda: -229388.7423
+		mu: -146507.8227
+m and m' for inlier feature correspondence 3:
+	m:[-0.0002  0.0002  0.0019]
+	m':[-0.0004  0.0002  0.002 ]
+lambda and mu for inlier feature correspondence 3:
+	corresponding to (R1, t1):
+		lambda: -61240.487
+		mu: 36303.5261
+	corresponding to (R1, t2):
+		lambda: 61240.487
+		mu: -36303.5261
+	corresponding to (R2, t3):
+		lambda: 229099.2251
+		mu: 126868.9149
+	corresponding to (R2, t4):
+		lambda: -229099.2251
+		mu: -126868.9149
+m and m' for inlier feature correspondence 4:
+	m:[-0.0002 -0.0001  0.0021]
+	m':[-0.0002 -0.0002  0.0022]
+lambda and mu for inlier feature correspondence 4:
+	corresponding to (R1, t1):
+		lambda: -58612.2426
+		mu: 37974.9463
+	corresponding to (R1, t2):
+		lambda: 58612.2426
+		mu: -37974.9463
+	corresponding to (R2, t3):
+		lambda: 211558.9904
+		mu: 128664.806
+	corresponding to (R2, t4):
+		lambda: -211558.9904
+		mu: -128664.806
+m and m' for inlier feature correspondence 5:
+	m:[ 0.0002 -0.      0.0014]
+	m':[ 0.0003 -0.0001  0.0013]
+lambda and mu for inlier feature correspondence 5:
+	corresponding to (R1, t1):
+		lambda: -97175.2517
+		mu: 69004.9322
+	corresponding to (R1, t2):
+		lambda: 97175.2517
+		mu: -69004.9322
+	corresponding to (R2, t3):
+		lambda: 230112.8573
+		mu: 141894.2732
+	corresponding to (R2, t4):
+		lambda: -230112.8573
+		mu: -141894.2732
+m and m' for inlier feature correspondence 6:
+	m:[-0.0003  0.      0.0021]
+	m':[-0.0006 -0.      0.0027]
+lambda and mu for inlier feature correspondence 6:
+	corresponding to (R1, t1):
+		lambda: -54197.6216
+		mu: 29358.1525
+	corresponding to (R1, t2):
+		lambda: 54197.6216
+		mu: -29358.1525
+	corresponding to (R2, t3):
+		lambda: 189337.608
+		mu: 83993.8409
+	corresponding to (R2, t4):
+		lambda: -189337.608
+		mu: -83993.8409
+m and m' for inlier feature correspondence 7:
+	m:[-0.0002  0.0001  0.002 ]
+	m':[-0.0003  0.0001  0.0021]
+lambda and mu for inlier feature correspondence 7:
+	corresponding to (R1, t1):
+		lambda: -61926.2899
+		mu: 36339.2385
+	corresponding to (R1, t2):
+		lambda: 61926.2899
+		mu: -36339.2385
+	corresponding to (R2, t3):
+		lambda: 209156.7769
+		mu: 116292.7651
+	corresponding to (R2, t4):
+		lambda: -209156.7769
+		mu: -116292.7651
+m and m' for inlier feature correspondence 8:
+	m:[ 0.0002 -0.      0.0015]
+	m':[ 0.0003 -0.      0.0013]
+lambda and mu for inlier feature correspondence 8:
+	corresponding to (R1, t1):
+		lambda: -91177.9937
+		mu: 64460.575
+	corresponding to (R1, t2):
+		lambda: 91177.9937
+		mu: -64460.575
+	corresponding to (R2, t3):
+		lambda: 233314.5459
+		mu: 147805.6009
+	corresponding to (R2, t4):
+		lambda: -233314.5459
+		mu: -147805.6009
+m and m' for inlier feature correspondence 9:
+	m:[-0.0002  0.0002  0.0019]
+	m':[-0.0002  0.0002  0.0019]
+lambda and mu for inlier feature correspondence 9:
+	corresponding to (R1, t1):
+		lambda: -65392.5602
+		mu: 38041.0892
+	corresponding to (R1, t2):
+		lambda: 65392.5602
+		mu: -38041.0892
+	corresponding to (R2, t3):
+		lambda: 213737.9057
+		mu: 118318.5798
+	corresponding to (R2, t4):
+		lambda: -213737.9057
+		mu: -118318.5798
+m and m' for inlier feature correspondence 11:
+	m:[-0.0003  0.      0.0021]
+	m':[-0.0006 -0.      0.0027]
+lambda and mu for inlier feature correspondence 11:
+	corresponding to (R1, t1):
+		lambda: -54197.6005
+		mu: 29358.2007
+	corresponding to (R1, t2):
+		lambda: 54197.6005
+		mu: -29358.2007
+	corresponding to (R2, t3):
+		lambda: 189338.068
+		mu: 83994.2733
+	corresponding to (R2, t4):
+		lambda: -189338.068
+		mu: -83994.2733
+m and m' for inlier feature correspondence 12:
+	m:[0.0003 0.     0.0012]
+	m':[0.0004 0.     0.0011]
+lambda and mu for inlier feature correspondence 12:
+	corresponding to (R1, t1):
+		lambda: -116791.3623
+		mu: 89391.0646
+	corresponding to (R1, t2):
+		lambda: 116791.3623
+		mu: -89391.0646
+	corresponding to (R2, t3):
+		lambda: 269480.4987
+		mu: 174217.9078
+	corresponding to (R2, t4):
+		lambda: -269480.4987
+		mu: -174217.9078
+m and m' for inlier feature correspondence 13:
+	m:[ 0.0003 -0.0003  0.0014]
+	m':[ 0.0004 -0.0003  0.0013]
+lambda and mu for inlier feature correspondence 13:
+	corresponding to (R1, t1):
+		lambda: -101813.6611
+		mu: 80622.1713
+	corresponding to (R1, t2):
+		lambda: 101813.6611
+		mu: -80622.1713
+	corresponding to (R2, t3):
+		lambda: 243433.9419
+		mu: 162862.6079
+	corresponding to (R2, t4):
+		lambda: -243433.9419
+		mu: -162862.6079
+m and m' for inlier feature correspondence 14:
+	m:[0.0001 0.     0.0015]
+	m':[ 0.0002 -0.      0.0014]
+lambda and mu for inlier feature correspondence 14:
+	corresponding to (R1, t1):
+		lambda: -86940.6791
+		mu: 60358.6244
+	corresponding to (R1, t2):
+		lambda: 86940.6791
+		mu: -60358.6244
+	corresponding to (R2, t3):
+		lambda: 234840.746
+		mu: 144159.1754
+	corresponding to (R2, t4):
+		lambda: -234840.746
+		mu: -144159.1754
+m and m' for inlier feature correspondence 15:
+	m:[-0.0003  0.0001  0.0022]
+	m':[-0.0007  0.      0.0027]
+lambda and mu for inlier feature correspondence 15:
+	corresponding to (R1, t1):
+		lambda: -52179.4852
+		mu: 28296.14
+	corresponding to (R1, t2):
+		lambda: 52179.4852
+		mu: -28296.14
+	corresponding to (R2, t3):
+		lambda: 197664.5426
+		mu: 93573.7432
+	corresponding to (R2, t4):
+		lambda: -197664.5426
+		mu: -93573.7432
+m and m' for inlier feature correspondence 16:
+	m:[ 0.0003 -0.0003  0.0014]
+	m':[ 0.0004 -0.0004  0.0012]
+lambda and mu for inlier feature correspondence 16:
+	corresponding to (R1, t1):
+		lambda: -107815.3996
+		mu: 87483.834
+	corresponding to (R1, t2):
+		lambda: 107815.3996
+		mu: -87483.834
+	corresponding to (R2, t3):
+		lambda: 241709.5484
+		mu: 164729.2937
+	corresponding to (R2, t4):
+		lambda: -241709.5484
+		mu: -164729.2937
+m and m' for inlier feature correspondence 17:
+	m:[-0.0001  0.0001  0.0019]
+	m':[-0.0002  0.0001  0.0019]
+lambda and mu for inlier feature correspondence 17:
+	corresponding to (R1, t1):
+		lambda: -67435.0453
+		mu: 39283.9545
+	corresponding to (R1, t2):
+		lambda: 67435.0453
+		mu: -39283.9545
+	corresponding to (R2, t3):
+		lambda: 208681.6417
+		mu: 114473.1234
+	corresponding to (R2, t4):
+		lambda: -208681.6417
+		mu: -114473.1234
+m and m' for inlier feature correspondence 18:
+	m:[-0.0003  0.0001  0.0021]
+	m':[-0.0006  0.      0.0026]
+lambda and mu for inlier feature correspondence 18:
+	corresponding to (R1, t1):
+		lambda: -54711.8212
+		mu: 30089.5199
+	corresponding to (R1, t2):
+		lambda: 54711.8212
+		mu: -30089.5199
+	corresponding to (R2, t3):
+		lambda: 194954.0718
+		mu: 88826.5185
+	corresponding to (R2, t4):
+		lambda: -194954.0718
+		mu: -88826.5185
+m and m' for inlier feature correspondence 19:
+	m:[-0.0001  0.0001  0.0019]
+	m':[-0.0002  0.0001  0.0019]
+lambda and mu for inlier feature correspondence 19:
+	corresponding to (R1, t1):
+		lambda: -65593.5977
+		mu: 39039.9615
+	corresponding to (R1, t2):
+		lambda: 65593.5977
+		mu: -39039.9615
+	corresponding to (R2, t3):
+		lambda: 208803.1228
+		mu: 117144.97
+	corresponding to (R2, t4):
+		lambda: -208803.1228
+		mu: -117144.97
+m and m' for inlier feature correspondence 21:
+	m:[-0.0001  0.0001  0.0019]
+	m':[-0.0001  0.0001  0.0019]
+lambda and mu for inlier feature correspondence 21:
+	corresponding to (R1, t1):
+		lambda: -67288.352
+		mu: 40566.2217
+	corresponding to (R1, t2):
+		lambda: 67288.352
+		mu: -40566.2217
+	corresponding to (R2, t3):
+		lambda: 211860.2363
+		mu: 119596.9056
+	corresponding to (R2, t4):
+		lambda: -211860.2363
+		mu: -119596.9056
+m and m' for inlier feature correspondence 22:
+	m:[0.0001 0.     0.0015]
+	m':[ 0.0002 -0.      0.0014]
+lambda and mu for inlier feature correspondence 22:
+	corresponding to (R1, t1):
+		lambda: -86940.5549
+		mu: 60358.7089
+	corresponding to (R1, t2):
+		lambda: 86940.5549
+		mu: -60358.7089
+	corresponding to (R2, t3):
+		lambda: 234841.9336
+		mu: 144160.1226
+	corresponding to (R2, t4):
+		lambda: -234841.9336
+		mu: -144160.1226
+m and m' for inlier feature correspondence 23:
+	m:[0.0001 0.     0.0016]
+	m':[0.0001 0.     0.0015]
+lambda and mu for inlier feature correspondence 23:
+	corresponding to (R1, t1):
+		lambda: -81989.5759
+		mu: 56162.1203
+	corresponding to (R1, t2):
+		lambda: 81989.5759
+		mu: -56162.1203
+	corresponding to (R2, t3):
+		lambda: 238743.4994
+		mu: 142058.6796
+	corresponding to (R2, t4):
+		lambda: -238743.4994
+		mu: -142058.6796
+m and m' for inlier feature correspondence 24:
+	m:[0.0003 0.     0.0013]
+	m':[ 0.0004 -0.      0.0011]
+lambda and mu for inlier feature correspondence 24:
+	corresponding to (R1, t1):
+		lambda: -109395.2083
+		mu: 80338.6275
+	corresponding to (R1, t2):
+		lambda: 109395.2083
+		mu: -80338.6275
+	corresponding to (R2, t3):
+		lambda: 243455.2069
+		mu: 160343.347
+	corresponding to (R2, t4):
+		lambda: -243455.2069
+		mu: -160343.347
+m and m' for inlier feature correspondence 25:
+	m:[ 0.0002 -0.      0.0015]
+	m':[ 0.0002 -0.      0.0014]
+lambda and mu for inlier feature correspondence 25:
+	corresponding to (R1, t1):
+		lambda: -88192.5666
+		mu: 61611.1636
+	corresponding to (R1, t2):
+		lambda: 88192.5666
+		mu: -61611.1636
+	corresponding to (R2, t3):
+		lambda: 234944.3331
+		mu: 145761.4164
+	corresponding to (R2, t4):
+		lambda: -234944.3331
+		mu: -145761.4164
+m and m' for inlier feature correspondence 26:
+	m:[-0.0001  0.      0.0018]
+	m':[-0.0001  0.      0.0018]
+lambda and mu for inlier feature correspondence 26:
+	corresponding to (R1, t1):
+		lambda: -68084.5296
+		mu: 43302.4761
+	corresponding to (R1, t2):
+		lambda: 68084.5296
+		mu: -43302.4761
+	corresponding to (R2, t3):
+		lambda: 221137.4822
+		mu: 130119.7861
+	corresponding to (R2, t4):
+		lambda: -221137.4822
+		mu: -130119.7861
+m and m' for inlier feature correspondence 27:
+	m:[ 0.0003 -0.0001  0.0013]
+	m':[ 0.0004 -0.0001  0.0012]
+lambda and mu for inlier feature correspondence 27:
+	corresponding to (R1, t1):
+		lambda: -104843.7413
+		mu: 80289.4588
+	corresponding to (R1, t2):
+		lambda: 104843.7413
+		mu: -80289.4588
+	corresponding to (R2, t3):
+		lambda: 255459.388
+		mu: 165296.7863
+	corresponding to (R2, t4):
+		lambda: -255459.388
+		mu: -165296.7863
+m and m' for inlier feature correspondence 28:
+	m:[-0.0005 -0.0001  0.0025]
+	m':[-0.0037 -0.0015  0.0082]
+lambda and mu for inlier feature correspondence 28:
+	corresponding to (R1, t1):
+		lambda: -45827.1343
+		mu: 8513.935
+	corresponding to (R1, t2):
+		lambda: 45827.1343
+		mu: -8513.935
+	corresponding to (R2, t3):
+		lambda: 90099.4215
+		mu: 6289.6805
+	corresponding to (R2, t4):
+		lambda: -90099.4215
+		mu: -6289.6805
+m and m' for inlier feature correspondence 29:
+	m:[-0.0003  0.      0.0021]
+	m':[-0.0006 -0.      0.0027]
+lambda and mu for inlier feature correspondence 29:
+	corresponding to (R1, t1):
+		lambda: -54197.8677
+		mu: 29358.3787
+	corresponding to (R1, t2):
+		lambda: 54197.8677
+		mu: -29358.3787
+	corresponding to (R2, t3):
+		lambda: 189339.6195
+		mu: 83996.1538
+	corresponding to (R2, t4):
+		lambda: -189339.6195
+		mu: -83996.1538
+m and m' for inlier feature correspondence 30:
+	m:[ 0.0002 -0.      0.0015]
+	m':[ 0.0003 -0.      0.0013]
+lambda and mu for inlier feature correspondence 30:
+	corresponding to (R1, t1):
+		lambda: -91179.1192
+		mu: 64461.4714
+	corresponding to (R1, t2):
+		lambda: 91179.1192
+		mu: -64461.4714
+	corresponding to (R2, t3):
+		lambda: 233311.2534
+		mu: 147805.7888
+	corresponding to (R2, t4):
+		lambda: -233311.2534
+		mu: -147805.7888
+m and m' for inlier feature correspondence 31:
+	m:[ 0.0003 -0.0002  0.0013]
+	m':[ 0.0004 -0.0003  0.0012]
+lambda and mu for inlier feature correspondence 31:
+	corresponding to (R1, t1):
+		lambda: -108067.3828
+		mu: 86337.8467
+	corresponding to (R1, t2):
+		lambda: 108067.3828
+		mu: -86337.8467
+	corresponding to (R2, t3):
+		lambda: 249597.5846
+		mu: 167883.481
+	corresponding to (R2, t4):
+		lambda: -249597.5846
+		mu: -167883.481
+m and m' for inlier feature correspondence 32:
+	m:[ 0.0003 -0.0002  0.0013]
+	m':[ 0.0004 -0.0003  0.0012]
+lambda and mu for inlier feature correspondence 32:
+	corresponding to (R1, t1):
+		lambda: -106911.7422
+		mu: 84687.1039
+	corresponding to (R1, t2):
+		lambda: 106911.7422
+		mu: -84687.1039
+	corresponding to (R2, t3):
+		lambda: 249659.9973
+		mu: 166369.6296
+	corresponding to (R2, t4):
+		lambda: -249659.9973
+		mu: -166369.6296
+m and m' for inlier feature correspondence 33:
+	m:[-0.0004 -0.      0.0024]
+	m':[-0.0019 -0.0004  0.0046]
+lambda and mu for inlier feature correspondence 33:
+	corresponding to (R1, t1):
+		lambda: -47268.564
+		mu: 16191.4938
+	corresponding to (R1, t2):
+		lambda: 47268.564
+		mu: -16191.4938
+	corresponding to (R2, t3):
+		lambda: 98468.5756
+		mu: 11607.4949
+	corresponding to (R2, t4):
+		lambda: -98468.5756
+		mu: -11607.4949
+m and m' for inlier feature correspondence 34:
+	m:[-0.0002  0.0002  0.0019]
+	m':[-0.0004  0.0002  0.0021]
+lambda and mu for inlier feature correspondence 34:
+	corresponding to (R1, t1):
+		lambda: -60976.0633
+		mu: 36341.6499
+	corresponding to (R1, t2):
+		lambda: 60976.0633
+		mu: -36341.6499
+	corresponding to (R2, t3):
+		lambda: 230049.2543
+		mu: 127845.1451
+	corresponding to (R2, t4):
+		lambda: -230049.2543
+		mu: -127845.1451
+m and m' for inlier feature correspondence 35:
+	m:[ 0.     -0.      0.0018]
+	m':[ 0.     -0.      0.0018]
+lambda and mu for inlier feature correspondence 35:
+	corresponding to (R1, t1):
+		lambda: -71761.6807
+		mu: 47602.6827
+	corresponding to (R1, t2):
+		lambda: 71761.6807
+		mu: -47602.6827
+	corresponding to (R2, t3):
+		lambda: 229595.2754
+		mu: 137094.4899
+	corresponding to (R2, t4):
+		lambda: -229595.2754
+		mu: -137094.4899
+m and m' for inlier feature correspondence 36:
+	m:[ 0.0003 -0.      0.0013]
+	m':[ 0.0004 -0.      0.0012]
+lambda and mu for inlier feature correspondence 36:
+	corresponding to (R1, t1):
+		lambda: -107710.9519
+		mu: 81000.9402
+	corresponding to (R1, t2):
+		lambda: 107710.9519
+		mu: -81000.9402
+	corresponding to (R2, t3):
+		lambda: 256586.9174
+		mu: 165908.2219
+	corresponding to (R2, t4):
+		lambda: -256586.9174
+		mu: -165908.2219
+m and m' for inlier feature correspondence 37:
+	m:[-0.0001  0.0001  0.0019]
+	m':[-0.0001  0.0001  0.0019]
+lambda and mu for inlier feature correspondence 37:
+	corresponding to (R1, t1):
+		lambda: -67295.2942
+		mu: 40565.4493
+	corresponding to (R1, t2):
+		lambda: 67295.2942
+		mu: -40565.4493
+	corresponding to (R2, t3):
+		lambda: 211843.7396
+		mu: 119570.5454
+	corresponding to (R2, t4):
+		lambda: -211843.7396
+		mu: -119570.5454
+m and m' for inlier feature correspondence 38:
+	m:[0.     0.     0.0017]
+	m':[0.     0.     0.0017]
+lambda and mu for inlier feature correspondence 38:
+	corresponding to (R1, t1):
+		lambda: -74799.1179
+		mu: 49404.0529
+	corresponding to (R1, t2):
+		lambda: 74799.1179
+		mu: -49404.0529
+	corresponding to (R2, t3):
+		lambda: 231436.1183
+		mu: 135493.7242
+	corresponding to (R2, t4):
+		lambda: -231436.1183
+		mu: -135493.7242
+m and m' for inlier feature correspondence 39:
+	m:[ 0.0002 -0.      0.0014]
+	m':[ 0.0003 -0.0001  0.0013]
+lambda and mu for inlier feature correspondence 39:
+	corresponding to (R1, t1):
+		lambda: -97198.4136
+		mu: 68928.5863
+	corresponding to (R1, t2):
+		lambda: 97198.4136
+		mu: -68928.5863
+	corresponding to (R2, t3):
+		lambda: 229517.5832
+		mu: 141151.3677
+	corresponding to (R2, t4):
+		lambda: -229517.5832
+		mu: -141151.3677
+m and m' for inlier feature correspondence 40:
+	m:[ 0.0003 -0.      0.0013]
+	m':[ 0.0004 -0.      0.0012]
+lambda and mu for inlier feature correspondence 40:
+	corresponding to (R1, t1):
+		lambda: -106980.7696
+		mu: 80507.1939
+	corresponding to (R1, t2):
+		lambda: 106980.7696
+		mu: -80507.1939
+	corresponding to (R2, t3):
+		lambda: 258175.2403
+		mu: 165943.9389
+	corresponding to (R2, t4):
+		lambda: -258175.2403
+		mu: -165943.9389
+m and m' for inlier feature correspondence 41:
+	m:[-0.0002 -0.0001  0.0021]
+	m':[-0.0002 -0.0002  0.0022]
+lambda and mu for inlier feature correspondence 41:
+	corresponding to (R1, t1):
+		lambda: -58612.2464
+		mu: 37974.9733
+	corresponding to (R1, t2):
+		lambda: 58612.2464
+		mu: -37974.9733
+	corresponding to (R2, t3):
+		lambda: 211559.2528
+		mu: 128665.0802
+	corresponding to (R2, t4):
+		lambda: -211559.2528
+		mu: -128665.0802
+m and m' for inlier feature correspondence 42:
+	m:[-0.0002  0.0001  0.0019]
+	m':[-0.0002  0.0001  0.002 ]
+lambda and mu for inlier feature correspondence 42:
+	corresponding to (R1, t1):
+		lambda: -64164.8991
+		mu: 37880.6932
+	corresponding to (R1, t2):
+		lambda: 64164.8991
+		mu: -37880.6932
+	corresponding to (R2, t3):
+		lambda: 207869.1394
+		mu: 115983.7706
+	corresponding to (R2, t4):
+		lambda: -207869.1394
+		mu: -115983.7706
+m and m' for inlier feature correspondence 43:
+	m:[-0.0004 -0.      0.0023]
+	m':[-0.001  -0.0002  0.0034]
+lambda and mu for inlier feature correspondence 43:
+	corresponding to (R1, t1):
+		lambda: -49967.3877
+		mu: 22603.9626
+	corresponding to (R1, t2):
+		lambda: 49967.3877
+		mu: -22603.9626
+	corresponding to (R2, t3):
+		lambda: 156294.149
+		mu: 54214.0227
+	corresponding to (R2, t4):
+		lambda: -156294.149
+		mu: -54214.0227
+m and m' for inlier feature correspondence 44:
+	m:[-0.0002  0.0001  0.002 ]
+	m':[-0.0003  0.0001  0.0021]
+lambda and mu for inlier feature correspondence 44:
+	corresponding to (R1, t1):
+		lambda: -61926.3239
+		mu: 36339.2649
+	corresponding to (R1, t2):
+		lambda: 61926.3239
+		mu: -36339.2649
+	corresponding to (R2, t3):
+		lambda: 209156.7789
+		mu: 116292.836
+	corresponding to (R2, t4):
+		lambda: -209156.7789
+		mu: -116292.836
+m and m' for inlier feature correspondence 45:
+	m:[0.     0.     0.0017]
+	m':[0.     0.     0.0017]
+lambda and mu for inlier feature correspondence 45:
+	corresponding to (R1, t1):
+		lambda: -74799.2033
+		mu: 49404.0407
+	corresponding to (R1, t2):
+		lambda: 74799.2033
+		mu: -49404.0407
+	corresponding to (R2, t3):
+		lambda: 231435.3963
+		mu: 135493.1169
+	corresponding to (R2, t4):
+		lambda: -231435.3963
+		mu: -135493.1169
+m and m' for inlier feature correspondence 47:
+	m:[-0.0001  0.      0.0019]
+	m':[-0.0001  0.      0.0019]
+lambda and mu for inlier feature correspondence 47:
+	corresponding to (R1, t1):
+		lambda: -64698.4536
+		mu: 40262.927
+	corresponding to (R1, t2):
+		lambda: 64698.4536
+		mu: -40262.927
+	corresponding to (R2, t3):
+		lambda: 215189.1539
+		mu: 126182.4781
+	corresponding to (R2, t4):
+		lambda: -215189.1539
+		mu: -126182.4781
+m and m' for inlier feature correspondence 48:
+	m:[-0.0001  0.0001  0.0019]
+	m':[-0.0002  0.0001  0.0019]
+lambda and mu for inlier feature correspondence 48:
+	corresponding to (R1, t1):
+		lambda: -67435.0532
+		mu: 39283.9691
+	corresponding to (R1, t2):
+		lambda: 67435.0532
+		mu: -39283.9691
+	corresponding to (R2, t3):
+		lambda: 208681.8995
+		mu: 114473.146
+	corresponding to (R2, t4):
+		lambda: -208681.8995
+		mu: -114473.146
+m and m' for inlier feature correspondence 49:
+	m:[ 0.0003 -0.0003  0.0014]
+	m':[ 0.0004 -0.0003  0.0013]
+lambda and mu for inlier feature correspondence 49:
+	corresponding to (R1, t1):
+		lambda: -101813.7077
+		mu: 80622.1367
+	corresponding to (R1, t2):
+		lambda: 101813.7077
+		mu: -80622.1367
+	corresponding to (R2, t3):
+		lambda: 243433.6263
+		mu: 162862.1473
+	corresponding to (R2, t4):
+		lambda: -243433.6263
+		mu: -162862.1473
+m and m' for inlier feature correspondence 50:
+	m:[0.0002 0.     0.0014]
+	m':[0.0003 0.     0.0012]
+lambda and mu for inlier feature correspondence 50:
+	corresponding to (R1, t1):
+		lambda: -99005.0672
+		mu: 70984.9092
+	corresponding to (R1, t2):
+		lambda: 99005.0672
+		mu: -70984.9092
+	corresponding to (R2, t3):
+		lambda: 242262.5716
+		mu: 154478.1446
+	corresponding to (R2, t4):
+		lambda: -242262.5716
+		mu: -154478.1446
+m and m' for inlier feature correspondence 51:
+	m:[-0.0004 -0.      0.0024]
+	m':[-0.0026 -0.0009  0.0062]
+lambda and mu for inlier feature correspondence 51:
+	corresponding to (R1, t1):
+		lambda: -48116.0066
+		mu: 11416.8194
+	corresponding to (R1, t2):
+		lambda: 48116.0066
+		mu: -11416.8194
+	corresponding to (R2, t3):
+		lambda: 98197.4852
+		mu: 9573.6049
+	corresponding to (R2, t4):
+		lambda: -98197.4852
+		mu: -9573.6049
+m and m' for inlier feature correspondence 53:
+	m:[ 0.0001 -0.      0.0017]
+	m':[ 0.0001 -0.      0.0017]
+lambda and mu for inlier feature correspondence 53:
+	corresponding to (R1, t1):
+		lambda: -75563.38
+		mu: 51087.0463
+	corresponding to (R1, t2):
+		lambda: 75563.38
+		mu: -51087.0463
+	corresponding to (R2, t3):
+		lambda: 234940.8548
+		mu: 139990.1585
+	corresponding to (R2, t4):
+		lambda: -234940.8548
+		mu: -139990.1585
+m and m' for inlier feature correspondence 54:
+	m:[0.0001 0.     0.0016]
+	m':[0.0001 0.     0.0015]
+lambda and mu for inlier feature correspondence 54:
+	corresponding to (R1, t1):
+		lambda: -81989.8273
+		mu: 56162.192
+	corresponding to (R1, t2):
+		lambda: 81989.8273
+		mu: -56162.192
+	corresponding to (R2, t3):
+		lambda: 238742.1874
+		mu: 142057.9658
+	corresponding to (R2, t4):
+		lambda: -238742.1874
+		mu: -142057.9658
+m and m' for inlier feature correspondence 55:
+	m:[-0.0004  0.      0.0023]
+	m':[-0.0007 -0.0001  0.0028]
+lambda and mu for inlier feature correspondence 55:
+	corresponding to (R1, t1):
+		lambda: -51283.0887
+		mu: 27394.6768
+	corresponding to (R1, t2):
+		lambda: 51283.0887
+		mu: -27394.6768
+	corresponding to (R2, t3):
+		lambda: 193075.3357
+		mu: 92152.4494
+	corresponding to (R2, t4):
+		lambda: -193075.3357
+		mu: -92152.4494
+m and m' for inlier feature correspondence 56:
+	m:[-0.0001  0.      0.0018]
+	m':[-0.0001  0.      0.0018]
+lambda and mu for inlier feature correspondence 56:
+	corresponding to (R1, t1):
+		lambda: -68084.4974
+		mu: 43302.4794
+	corresponding to (R1, t2):
+		lambda: 68084.4974
+		mu: -43302.4794
+	corresponding to (R2, t3):
+		lambda: 221137.9058
+		mu: 130120.0771
+	corresponding to (R2, t4):
+		lambda: -221137.9058
+		mu: -130120.0771
+m and m' for inlier feature correspondence 57:
+	m:[ 0.0004 -0.0001  0.0012]
+	m':[ 0.0005 -0.0002  0.001 ]
+lambda and mu for inlier feature correspondence 57:
+	corresponding to (R1, t1):
+		lambda: -127907.8293
+		mu: 103313.7121
+	corresponding to (R1, t2):
+		lambda: 127907.8293
+		mu: -103313.7121
+	corresponding to (R2, t3):
+		lambda: 265503.2134
+		mu: 181591.0622
+	corresponding to (R2, t4):
+		lambda: -265503.2134
+		mu: -181591.0622
+m and m' for inlier feature correspondence 60:
+	m:[0.0002 0.     0.0014]
+	m':[0.0003 0.     0.0012]
+lambda and mu for inlier feature correspondence 60:
+	corresponding to (R1, t1):
+		lambda: -99004.9395
+		mu: 70984.8104
+	corresponding to (R1, t2):
+		lambda: 99004.9395
+		mu: -70984.8104
+	corresponding to (R2, t3):
+		lambda: 242262.8313
+		mu: 154478.1381
+	corresponding to (R2, t4):
+		lambda: -242262.8313
+		mu: -154478.1381
+m and m' for inlier feature correspondence 62:
+	m:[ 0.0004 -0.0001  0.0012]
+	m':[ 0.0005 -0.0001  0.001 ]
+lambda and mu for inlier feature correspondence 62:
+	corresponding to (R1, t1):
+		lambda: -127988.8595
+		mu: 101816.728
+	corresponding to (R1, t2):
+		lambda: 127988.8595
+		mu: -101816.728
+	corresponding to (R2, t3):
+		lambda: 270309.3305
+		mu: 181633.159
+	corresponding to (R2, t4):
+		lambda: -270309.3305
+		mu: -181633.159
+m and m' for inlier feature correspondence 63:
+	m:[ 0.0003 -0.0001  0.0013]
+	m':[ 0.0004 -0.0001  0.0012]
+lambda and mu for inlier feature correspondence 63:
+	corresponding to (R1, t1):
+		lambda: -112077.2373
+		mu: 86993.8464
+	corresponding to (R1, t2):
+		lambda: 112077.2373
+		mu: -86993.8464
+	corresponding to (R2, t3):
+		lambda: 259109.812
+		mu: 169884.2682
+	corresponding to (R2, t4):
+		lambda: -259109.812
+		mu: -169884.2682
+m and m' for inlier feature correspondence 64:
+	m:[ 0.0003 -0.0002  0.0014]
+	m':[ 0.0004 -0.0003  0.0013]
+lambda and mu for inlier feature correspondence 64:
+	corresponding to (R1, t1):
+		lambda: -101034.7918
+		mu: 77788.1081
+	corresponding to (R1, t2):
+		lambda: 101034.7918
+		mu: -77788.1081
+	corresponding to (R2, t3):
+		lambda: 238067.2659
+		mu: 153729.5966
+	corresponding to (R2, t4):
+		lambda: -238067.2659
+		mu: -153729.5966
+m and m' for inlier feature correspondence 65:
+	m:[-0.0003  0.      0.0022]
+	m':[-0.0007 -0.0001  0.0029]
+lambda and mu for inlier feature correspondence 65:
+	corresponding to (R1, t1):
+		lambda: -52394.0508
+		mu: 26761.3228
+	corresponding to (R1, t2):
+		lambda: 52394.0508
+		mu: -26761.3228
+	corresponding to (R2, t3):
+		lambda: 179024.7163
+		mu: 75921.7845
+	corresponding to (R2, t4):
+		lambda: -179024.7163
+		mu: -75921.7845
+m and m' for inlier feature correspondence 67:
+	m:[-0.0004 -0.      0.0024]
+	m':[-0.0026 -0.0009  0.0062]
+lambda and mu for inlier feature correspondence 67:
+	corresponding to (R1, t1):
+		lambda: -48115.8739
+		mu: 11416.7439
+	corresponding to (R1, t2):
+		lambda: 48115.8739
+		mu: -11416.7439
+	corresponding to (R2, t3):
+		lambda: 98196.4855
+		mu: 9573.1877
+	corresponding to (R2, t4):
+		lambda: -98196.4855
+		mu: -9573.1877
+m and m' for inlier feature correspondence 68:
+	m:[ 0.0003 -0.      0.0013]
+	m':[ 0.0004 -0.      0.0011]
+lambda and mu for inlier feature correspondence 68:
+	corresponding to (R1, t1):
+		lambda: -110890.8287
+		mu: 83979.5667
+	corresponding to (R1, t2):
+		lambda: 110890.8287
+		mu: -83979.5667
+	corresponding to (R2, t3):
+		lambda: 255674.3759
+		mu: 170255.3914
+	corresponding to (R2, t4):
+		lambda: -255674.3759
+		mu: -170255.3914
+The correct solution (R, t):
+	R:
+[[ 0.9118  0.405   0.0679]
+ [-0.3811  0.8961 -0.2275]
+ [-0.153   0.1815  0.9714]]
+	t:
+[[-53.995 ]
+ [ 44.8969]
+ [172.2348]]
+Points discarded as outliers:
+-------------------Task3 D-----------------------------
+Plot of the 3D points and the 2 camera centers
+	Red represents the camera centers
+	Blue represents the 3D points
+-------------------Task3 E-----------------------------
+Plot of the 3D points and the corresponding feature points
+	Green represents the 3D points
+	Blue represents the correspondence points
